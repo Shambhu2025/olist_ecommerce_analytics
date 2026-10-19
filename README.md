@@ -35,5 +35,5 @@ Based on the modeling outputs, I recommend the following operational changes:
 3. The notebook utilizes `duckdb` to run SQL natively in memory, requiring no local PostgreSQL server setup.
 
 ## 📈 Visualizations
-![RFM Customer Clusters](images/rfm_cluster.png)
+![RFM Customer Clusters](images/rfm_clusters.png)
 ![Random Forest Feature Importance](images/feature_importance.png)
